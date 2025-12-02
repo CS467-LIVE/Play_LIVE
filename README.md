@@ -11,8 +11,7 @@
 - Click Switch Platform
 - In Player Settings → WebGL → Publishing Settings, set Compression Format = Disabled
 - Click Build, choose an empty folder in your desktop to load this file into
-- Copy/Paste all build outputs into *THIS* repo
+- Copy/Paste all build outputs into *THIS* repo under the DOCS folder (VERY IMPORTANT!)
 - Game will be displayed on: https://cs467-live.github.io/Play_LIVE/
-
 
 
